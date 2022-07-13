@@ -78,7 +78,6 @@
 		470579DB287C31F400BD75F7 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
-				470579CA287C31B700BD75F7 /* ViewController.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -86,9 +85,18 @@
 		470579DC287C31FD00BD75F7 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				470579CC287C31B700BD75F7 /* Main.storyboard */,
+				470BA62D287F2A2900C8145A /* Storyboard */,
+				470579CA287C31B700BD75F7 /* ViewController.swift */,
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		470BA62D287F2A2900C8145A /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				470579CC287C31B700BD75F7 /* Main.storyboard */,
+			);
+			path = Storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
